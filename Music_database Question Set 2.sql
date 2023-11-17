@@ -3,7 +3,6 @@
 /* Q1: Write query to return the email, first name, last name, & Genre of all rock Music Listeners.
 Return your list ordered alphabatically by email starting with A. */
 
-/* Method 1 */
 
 SELECT DISTINCT email,first_name,last_name
 FROM customer
